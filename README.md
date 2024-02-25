@@ -2,6 +2,7 @@
 
 
 # Transit Plus
+This repository contains the code developed during the DevClub Hackathon, where my team and I built a Winnipeg Transit application from scratch within 24 hours. Leveraging various technologies and APIs, we created an intuitive and efficient solution to enhance the transit experience for users in Winnipeg. Explore the code to see our collaborative efforts in rapid prototyping, problem-solving, and innovative design
 
 ## Team :- Seg Fault
 
