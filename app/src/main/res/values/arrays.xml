@@ -1,0 +1,15 @@
+<resources>
+    <string-array name="datetime_items_array">
+        <item>February 25 ,2024</item>
+        <item>February 26 ,2024</item>
+        <item>February 27 ,2024</item>
+        <item>February 28 ,2024</item>
+        <item>February 29 ,2024</item>
+        <item>March 1 ,2024</item>
+        <item>March 2 ,2024</item>
+        <item>March 3 ,2024</item>
+        <item>March 4 ,2024</item>
+
+        <!-- Add more dates as needed -->
+    </string-array>
+</resources>
